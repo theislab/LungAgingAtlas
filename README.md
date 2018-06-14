@@ -8,10 +8,11 @@ Aging promotes lung function decline and susceptibility to chronic lung diseases
 
 
 
+<p></p>
 <p align="center"> 
 <img src="Overview_logos.png">
 </p>
-
+<p></p>
 
 
 https://theislab.github.io/LungAgingAtlas/
