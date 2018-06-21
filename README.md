@@ -1,6 +1,6 @@
 # An atlas of the aging lung mapped by single cell transcriptomics and deep tissue proteomics 
 
-Link to article on bioRxiv: xxxxx
+[Link](https://www.biorxiv.org/content/early/2018/06/20/351353) to bioRxiv preprint.
 
 <p align="center"> 
 <img src="Overview_MLAA.png">
