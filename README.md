@@ -18,7 +18,7 @@ The code used to generate the webtool can be accessed at https://github.com/gtsi
 
 [Link](https://www.singlecell.de/) to single cell omics Germany network. 
 
-
+This website was developed by [lkmklsmn](https://github.com/lkmklsmn) and [gtsitsiridis](https://github.com/gtsitsiridis).
 
 <p></p>
 <p align="center"> 
